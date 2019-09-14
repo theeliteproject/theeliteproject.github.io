@@ -3,6 +3,9 @@
 		<loc>https://eliteprojectmentors.com/index.html</loc>
 	</url>
 	<url>
+                <loc>https://eliteprojectmentors.com/</loc>
+	</url>
+	<url>
 		<loc>https://eliteprojectmentors.com/about.html</loc>
 	</url>
 	<url>
@@ -12,3 +15,4 @@
 		<loc>https://eliteprojectmentors.com/home-workshop.html</loc>
 	</url>
 </urlset>
+
