@@ -41,7 +41,7 @@
       }
     ],
     "uniqCompNum": 21,
-    "versionPublish": "4.10.8",
+    "versionPublish": "4.10.10",
     "screenshot": "screenshot.png",
     "cleanCSS": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
