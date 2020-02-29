@@ -67,7 +67,10 @@
     "sitemapSwitcher": true,
     "canonical-url": "https://eliteprojectmentors.com",
     "": "on",
-    "imageResize": true
+    "imageResize": true,
+    "cssOptimize": true,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
